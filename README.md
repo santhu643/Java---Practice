@@ -75,16 +75,16 @@ Each file contains a Java program focusing on a particular concept or problem st
    git clone https://github.com/santhu643/Java---Practice.git
 Navigate to the folder:
 
-```bash
-cd Java---Practice
+  ```bash
+  cd Java---Practice
 Compile a Java file:
 
-```bash
-javac FileName.java
+  ```bash
+    javac FileName.java
 Run the compiled class:
 
-```bash
-java FileName
+  ```bash
+    java FileName
 Make sure Java JDK is installed and environment variables are set up properly.
 
 ## 🎯 Goals and Learning Outcomes
