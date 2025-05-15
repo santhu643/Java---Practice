@@ -70,21 +70,21 @@ Each file contains a Java program focusing on a particular concept or problem st
 
 ## 🛠️ How to Run the Programs
 
-1. **Clone the Repository:**
-   ```bash
+## 1.Clone the Repository:
+   
    git clone https://github.com/santhu643/Java---Practice.git
-Navigate to the folder:
 
-  ```bash
+## 2.Navigate to the folder:
+
   cd Java---Practice
-Compile a Java file:
+  
+## 3.Compile a Java file:
 
-  ```bash
     javac FileName.java
-Run the compiled class:
+## Run the compiled class:
 
-  ```bash
     java FileName
+    
 Make sure Java JDK is installed and environment variables are set up properly.
 
 ## 🎯 Goals and Learning Outcomes
