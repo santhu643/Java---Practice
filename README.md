@@ -1,4 +1,3 @@
-# Java---Practice
 # 📚 Java Practice Repository
 
 Welcome to my **Java Practice** repository!  
