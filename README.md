@@ -26,15 +26,25 @@ This repository contains a collection of Java programs designed to strengthen my
 
 Java---Practice/
 ├── README.md
+
 ├── AreaOfCircle.java
+
 ├── Calculator.java
+
 ├── CircleComparison.java
+
 ├── EmployeeDetails.java
+
 ├── Factorial.java
+
 ├── FibonacciSeries.java
+
 ├── InheritanceExample.java
+
 ├── PalindromeCheck.java
+
 ├── PrimeNumber.java
+
 ├── StringOperations.java
 
 
@@ -65,15 +75,15 @@ Each file contains a Java program focusing on a particular concept or problem st
    git clone https://github.com/santhu643/Java---Practice.git
 Navigate to the folder:
 
-bash
+```bash
 cd Java---Practice
 Compile a Java file:
 
-bash
+```bash
 javac FileName.java
 Run the compiled class:
 
-bash
+```bash
 java FileName
 Make sure Java JDK is installed and environment variables are set up properly.
 
