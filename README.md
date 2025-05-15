@@ -97,10 +97,12 @@ Build a Strong Foundation: Prepare for technical interviews and academic project
 Showcase Skills: Maintain a portfolio of Java programs demonstrating learning progress.
 
 ## 📬 Connect with Me
+🔗 LinkedIn - https://www.linkedin.com/in/santhiya-prakash-87449425a/
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/santhiya-prakash-87449425a/)
-- 💻 [GitHub](https://github.com/Santhiyaprakash)
-- 🧠 [LeetCode](https://leetcode.com/u/santhiya04/)
+💻 GitHub - https://github.com/santhu643
+
+🧠 LeetCode - https://leetcode.com/u/santhiyaprakash/
+
 
 Feel free to reach out for collaboration, questions, or feedback!
 
